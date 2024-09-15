@@ -1,9 +1,10 @@
 ---
 title: Welcome to Quartz
 ---
-# **Поиск работает по title и тексту(не по названию файла)**
+# **Поиск работает по title и тексту** (не по названию файла)
 
-cd quartz
+
+cd quartz  
 npx quartz sync --no-pull
 
 npx quartz build --serve
